@@ -39,6 +39,6 @@
   <p>Data is stored securely on your device and with service providers only as needed.</p>
 
   <h2>8. Contact</h2>
-  <p>If you have questions, contact: <strong>your-email@example.com</strong></p>
+  <p>If you have questions, contact: <strong>Maniratech7@gmail.com</strong></p>
 </body>
 </html>
